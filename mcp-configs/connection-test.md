@@ -9,7 +9,7 @@
 
 ## Test 1: Rolldice MCP Server
 
-<img src="ROLLDICE.png" alt="visual">
+<img src="./ROLLDICE.png" alt="Rolldice MCP Server Visual Proof">
 
 ### Configuration
 ```json
@@ -55,8 +55,7 @@ Statistical Accuracy: Verified
 
 ## Test 2: Bootcamp AI Agent MCP Server
 
-
-<img src="BOOTCAMP.png" alt="visual">
+<img src="./BOOTCAMP-AGENT.png" alt="Bootcamp AI Agent Server Visual Proof">
 ### ConfigurationUser: "Schedule a meeting with the team for next Tuesday at 2 PM"
 Claude: [Uses Calendar server to check availability]
 Response: "Scheduled team meeting for Tuesday, March 25 at 2:00 PM. 
@@ -124,7 +123,7 @@ Usefulness: High - Actionable and detailed
 ---
 
 ## Test 3: Calendar Booking MCP Server
-<img src="CALENDAR.png" alt="visual">
+<img src="./MCP-CALENDAR.png" alt="Calendar Booking Server Visual Proof">
 ### Configuration
 ```json
 {
@@ -193,7 +192,7 @@ Result: Successfully configured recurring event
 ---
 
 ## Test 4: GitHub MCP Server
-<img src="GIT.png" alt="visual">
+<img src="./MCP-GITHUB.png" alt="GitHub MCP Server Visual Proof">
 ### Configuration
 ```json
 {

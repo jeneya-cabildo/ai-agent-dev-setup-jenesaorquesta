@@ -14,7 +14,7 @@ HERE IS THE EVIDENCE OF THE SERVERS:
 - **Package:** @modelcontextprotocol/server-everything
 - **Status:** ✅ Active
 
-<img src="MCP-SERVER.png" alt="visual">
+<img src="./MCP-SERVER.png" alt="MCP Servers Configuration">
 
 ### Purpose
 The Rolldice MCP server provides randomization capabilities for probabilistic scenarios, game development, and testing purposes. It integrates random number generation and dice rolling utilities directly into Claude Desktop.
@@ -58,7 +58,7 @@ Result: [15, 8, 19, 4, 12]
 - **Package:** @modelcontextprotocol/server-memory
 - **Status:** ✅ Active
 
-<img src="BOOTCAMP-AGENT.png" alt="visual">
+<img src="./BOOTCAMP-AGENT.png" alt="Bootcamp AI Agent Server">
 
 ### Purpose
 The Bootcamp AI Agent server provides curriculum integration, progress tracking, and AI-enhanced learning support. It maintains context about the bootcamp program structure, student progress, and provides personalized learning recommendations.
@@ -114,7 +114,7 @@ advanced prompt engineering. Time estimate: 4-6 hours"
 - **Package:** @takumi0706/google-calendar-mcp
 - **Status:** ✅ Active
 
-<img src="MCP-CALENDAR.png" alt="visual">
+<img src="./MCP-CALENDAR.png" alt="Calendar Booking Server">
 
 ### Purpose
 The Calendar Booking MCP server enables Claude to directly interact with calendar systems for event management, meeting scheduling, and time slot booking. This automation eliminates manual calendar management and enables AI-assisted scheduling.
@@ -168,7 +168,7 @@ Calendar invites sent to all 6 team members. Video conference link: [link]"
 - **Package:** @modelcontextprotocol/server-github
 - **Status:** ✅ Active
 
-<img src="MCP-GITHUB.png" alt="visual">
+<img src="./MCP-GITHUB.png" alt="GitHub MCP Server">
 
 ### Purpose
 The GitHub MCP server provides comprehensive GitHub repository integration, enabling Claude to directly read, analyze, and modify repositories. This enables AI-assisted development workflows with full version control integration.
