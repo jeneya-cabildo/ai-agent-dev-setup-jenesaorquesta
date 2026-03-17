@@ -5,6 +5,8 @@ This document provides comprehensive documentation of all 4 Model Context Protoc
 
 ---
 
+HERE IS THE EVIDENCE OF THE SERVERS:
+<img src="MCP-SERVER.png" alt="visual">
 ## Server 1: Rolldice MCP Server
 
 ### Basic Information
