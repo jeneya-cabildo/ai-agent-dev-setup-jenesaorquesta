@@ -1,7 +1,7 @@
 # AI Agent Developer Setup - jeneya-cabildo
 
 ## Developer Information
-- **Name:** jeneya-cabildo
+- **Name:** Jenesa C. Orquesta
 - **Workshop Cohort:** Bootcamp Cohort
 - **Program:** AI Agent Developer 10-Week Bootcamp
 - **Submission Date:** Week 1 - Setup Verification
