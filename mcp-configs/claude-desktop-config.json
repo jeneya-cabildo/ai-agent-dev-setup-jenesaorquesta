@@ -13,7 +13,7 @@
     },
     "calendar": {
       "command": "npx",
-      "args": ["-y", "@takumi0706/google-calendar-mcp"]
+      "args": ["-g", "@takumi0706/google-calendar-mcp"]
     },
     "bootcamp-agent": {
       "command": "npx",
