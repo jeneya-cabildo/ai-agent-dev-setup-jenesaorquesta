@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "rolldice": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-everything"]
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "YOUR_TOKEN_HERE_FOR_SAFETY"
+      }
+    },
+    "calendar": {
+      "command": "npx",
+      "args": ["-y", "@takumi0706/google-calendar-mcp"]
+    },
+    "bootcamp-agent": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"]
+    }
+  }
+}
