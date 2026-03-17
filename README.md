@@ -39,8 +39,7 @@ VS Code Insider is running with GitHub Copilot extension active and connected.
 ### ✅ Claude Desktop with 4 MCP Servers Connected
 Claude Desktop is configured with all required MCP servers for enhanced AI capabilities.
 
-**Screenshot:** [Add screenshot of Claude Desktop showing all 4 MCP servers]
-
+<img src="MCP-SERVER.png" alt="visual">
 ---
 
 ## MCP Servers Overview
